@@ -184,7 +184,7 @@ See the Zouwu [user guide](https://analytics-zoo.readthedocs.io/en/latest/doc/Zo
 
 ***Analytics Zoo PPML*** provides a *Trusted Cluster Environment* for protecting the end-to-end Big Data AI pipeline. It combines various low level hardware and software security technologies (e.g., Intel SGX, LibOS such as Graphene and Occlum, Federated Learning, etc.), and allows users to run unmodified Big Data analysis and ML/DL programs (such as Apache Spark, Apache Flink, Tensorflow, PyTorch, etc.) in a secure fashion on (private or public) cloud.
 
-See the [PPML user guide]() for more details. 
+See the [PPML user guide](https://analytics-zoo.readthedocs.io/en/latest/doc/PPML/Overview/ppml.html) for more details. 
 
 ## More information
 
